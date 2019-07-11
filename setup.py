@@ -9,5 +9,7 @@ setup(
     author='Tom Meyer',
     lilcense='GPLv3',
     url='https://github.com/Skasselbard/scripts',
-    packages=['scripts']
+    packages=['scripts'],
+    scripts=['scripts/console.py'],
+    install_requires=['serialpy']
 )
