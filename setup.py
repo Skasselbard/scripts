@@ -7,7 +7,7 @@ setup(
     name='ConvenienceFunctions',
     version='0.1',
     author='Tom Meyer',
-    lilcense='GPLv3',
+    license='GPLv3',
     url='https://github.com/Skasselbard/scripts',
     packages=['scripts'],
     scripts=['scripts/console.py'],
