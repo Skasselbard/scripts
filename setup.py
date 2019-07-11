@@ -11,5 +11,5 @@ setup(
     url='https://github.com/Skasselbard/scripts',
     packages=['scripts'],
     scripts=['scripts/console.py'],
-    install_requires=['serialpy']
+    install_requires=['pyserial']
 )
